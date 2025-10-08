@@ -1,2 +1,2 @@
-Training on python language, at my collage.
+Training on python language, at my college.
 FSP- Finishing School Program
